@@ -3,7 +3,7 @@
  * to manage JFrame shape and centralize it in the screen.
  * Version : 0.1
  * Author : Wajdi Yousif Hassan Mousa.
- * Last modified date : 04/12/2017.
+ * Last modified date : 04/14/2017.
  */
 package com.wajdi.frame;
 
